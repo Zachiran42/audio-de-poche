@@ -1,6 +1,6 @@
 # Audio de poche
 
-Version0.1.0 Android8+, hors ligne. Sources MIT.
+Version0.1.1 Android8+, hors ligne. Sources MIT.
 
 Importe tes fichiers audio locaux. Lecture en arrière-plan, vitesse réglable, reprise et signets. Les fichiers protégés ou formats non reconnus par Android ne sont pas pris en charge.
 
@@ -16,10 +16,10 @@ Configurer .toolchain.json depuis le modèle (JDK21, SDKAndroid36, BuildTools36)
 ## Limites de validation
 Compilation et contrôles automatisés ; aucun téléphone Android physique utilisé. Les interfaces natives, notifications, imports de fichiers et lectures multimédia demandent un essai sur appareil.
 
-## Périmètre0.1.0
+## Périmètre0.1.1
  Une pièce jointe principale par fiche. Les sauvegardes incluent les pièces jointes jusqu’à1Go et ne restaurent pas les minuteurs déjà en cours.
 
 ## Téléchargement
-[APK0.1.0](https://github.com/Zachiran42/audio-de-poche/releases/latest/download/audio-de-poche-0.1.0.apk) · [Page de l’application](https://zachiran42.github.io/audio-de-poche/)
+[APK0.1.1](https://github.com/Zachiran42/audio-de-poche/releases/latest/download/audio-de-poche-0.1.1.apk) · [Page de l’application](https://zachiran42.github.io/audio-de-poche/)
 
 Présente dans le catalogue partagé de Cercle après publication. Ajout personnel également possible avec « Ajouter depuis GitHub » et le lien https://github.com/Zachiran42/audio-de-poche.

@@ -1,4 +1,4 @@
-# Validation0.1.0
+# Validation0.1.1
 
 Les22configurations sont compilées en applications distinctes, Android8+ universel, sans permission Internet. Chaque APK est aligné, signé et contrôlé avec les outils Android.
 
